@@ -11,7 +11,7 @@ Diese Seite verzeichnet Quellen, deren automatischer Abruf nicht möglich war od
 
 ## Native deutsche Digital-Demokratie-Diskurs (Priorität)
 
-Hintergrund: Parent wiki analysis [[plurality-llm-wiki/wiki/analyses/nattoku-translation-vs-native]] zeigt, dass **Übersetzungspfad-Vergleich** (1 Quelle → N Sprachen) und **Native-Diskurs-Sammlung** (jede Sprache mit eigenem Vokabular) verschiedene Carving-Differenzen sichtbar machen. Das Plurality-Buch ist EN-Original; das DE Wiki braucht **native deutsche Texte über Digitale Demokratie**, um Carving-Differenzen zwischen Übersetzung und Native-Vokabular beobachtbar zu machen.
+Hintergrund: Parent wiki analysis [nattoku-translation-vs-native](https://github.com/nishio/plurality-llm-wiki/blob/main/wiki/analyses/nattoku-translation-vs-native.md) zeigt, dass **Übersetzungspfad-Vergleich** (1 Quelle → N Sprachen) und **Native-Diskurs-Sammlung** (jede Sprache mit eigenem Vokabular) verschiedene Carving-Differenzen sichtbar machen. Das Plurality-Buch ist EN-Original; das DE Wiki braucht **native deutsche Texte über Digitale Demokratie**, um Carving-Differenzen zwischen Übersetzung und Native-Vokabular beobachtbar zu machen.
 
 Konkret: Das Wort **"nachvollziehbar"** ist die nächste deutsche Annäherung an japanisches 「納得」, aber wir wissen nicht, wie häufig es in nativen deutschen Digital-Demokratie-Texten vorkommt. Diese Quellen würden das beobachtbar machen.
 
@@ -19,7 +19,7 @@ Konkret: Das Wort **"nachvollziehbar"** ist die nächste deutsche Annäherung an
 - Habermas, *Strukturwandel der Öffentlichkeit* (1962) und Sekundärliteratur
 - Habermas, *Faktizität und Geltung* (1992) — Diskursethik / kommunikative Vernunft
 - Aktuelle Habermas-Schule zu digitaler Öffentlichkeit (z. B. *Ein neuer Strukturwandel der Öffentlichkeit*, Habermas 2022)
-- **Erwartung**: "Nachvollziehbarkeit" und "Verständigung" als Kernbegriffe; relevanter Vergleichsraum für [[habermas-blocks-pluralization]]
+- **Erwartung**: "Nachvollziehbarkeit" und "Verständigung" als Kernbegriffe; relevanter Vergleichsraum für die parent-wiki-Analyse [habermas-blocks-pluralization](https://github.com/nishio/plurality-llm-wiki/blob/main/wiki/analyses/habermas-blocks-pluralization.md)
 
 ### Decidim Deutschland / Bürgerbeteiligung-Plattformen
 - decidim.org (deutschsprachige Sektion)
@@ -71,7 +71,7 @@ Konkret: Das Wort **"nachvollziehbar"** ist die nächste deutsche Annäherung an
 
 Wenn manuell heruntergeladen, in `raw/<descriptive-name>.md` ablegen. `raw/` ist gitignored. Folgende Ingest-Schritte: lesen → wiki/sources/<source-page>.md erstellen, ggf. concept/entity pages aktualisieren oder neu erstellen, alle in deutscher Sprache.
 
-## Aktuelle Beobachtung (parent-wiki [[plurality-llm-wiki/wiki/analyses/nattoku-translation-vs-native]] daraus)
+## Aktuelle Beobachtung (parent-wiki [nattoku-translation-vs-native](https://github.com/nishio/plurality-llm-wiki/blob/main/wiki/analyses/nattoku-translation-vs-native.md) daraus)
 
 | Kindwiki | Übersetzungs-Quelle | Native-Diskurs-Quelle |
 |---|---|---|

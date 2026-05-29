@@ -3,7 +3,20 @@
 > 直近 7 日分のみ。全件 compact 履歴は [log.txt](log.txt)、それより古い entry の詳細は `git log -- wiki/log.md` で参照。
 > 更新は `python3 scripts/refresh_logs.py` で log.txt と log.md を再生成する。
 
+## [2026-05-29 11:30] ingest | Konzept "Nachvollziehbarkeit" als DE-Äquivalent zu JA 納得
+
+
+Parent-Wiki empirische Untersuchung ([[plurality-llm-wiki/wiki/analyses/nattoku-translation-vs-native]]) als DE-Konzeptseite eingebracht:
+
+- DE "Nachvollziehbarkeit" / "nachvollziehbar" hat strukturelle Ähnlichkeit mit JA 「納得」 (subjektive Akzeptanz + Verstehen)
+- Im Plurality-Buch DE in "intuitiv nachvollziehbar" (Kap. 6-0)
+- Mögliche Habermas-Verbindung (Verständigung / Diskursethik) — Open Question
+- Native DE Frequenz noch unbekannt — siehe [[wishlist]]
+
+Neue Konzeptseite: [[Nachvollziehbarkeit]]. Verweist auf [[Pluralität-Buch]] und parent Analyse.
+
 ## [2026-05-28 18:00] initial-ingest | Deutsche Ausgabe des Pluralität-Buchs — erste Aufnahme
+
 
 
 
