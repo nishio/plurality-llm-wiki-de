@@ -49,8 +49,9 @@ Dies ist ein **Open Question** und müsste durch Ingest nativer deutscher Texte 
 
 Wenn "Nachvollziehbarkeit" im nativen deutschen Digital-Demokratie-Diskurs ähnlich häufig vorkommt wie 「納得」im japanischen Diskurs (~40/1421 Seiten), wäre das ein empirischer Beleg dafür, dass:
 
-- Die Habermas-geprägte deutsche Demokratietheorie und die japanische Konsens-Tradition **strukturell ähnliche Akzeptanz-Konzepte** entwickelt haben
-- Englisch ist die Ausnahme, nicht die Regel — beide kontinentale Traditionen (DE Diskursethik / JA Konsens-Kultur) haben einen einheitlichen Akzeptanz-Begriff, das angelsächsische Vokabular nicht
+- Die Habermas-geprägte deutsche Demokratietheorie und die japanische Konsens-Tradition (Nemawashi / Ringi / "Bauchgefühl-Akzeptanz") **strukturell ähnliche Akzeptanz-Konzepte** entwickelt haben — **trotz fehlender genealogischer Verwandtschaft** (verschiedene Sprachfamilien, verschiedene philosophische Traditionen)
+- Englisch ist hier möglicherweise die Ausnahme: zwei genealogisch unverbundene Traditionen — DE Diskursethik und JA Konsens-Kultur — sind unabhängig voneinander auf einen einheitlichen Akzeptanz-Begriff konvergiert, das angelsächsische Vokabular nicht
+- Die unabhängige Konvergenz wäre stärker als jede regionale Gruppierung (DE ist mitteleuropäisch, JA ist ostasiatisch — keine geographische oder linguistische Verwandtschaft)
 
 Diese Hypothese ist noch nicht empirisch geprüft, aber motiviert die Aufnahme nativer deutscher Quellen in die Wishlist.
 
