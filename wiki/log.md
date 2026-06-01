@@ -3,7 +3,20 @@
 > 直近 7 日分のみ。全件 compact 履歴は [log.txt](log.txt)、それより古い entry の詳細は `git log -- wiki/log.md` で参照。
 > 更新は `python3 scripts/refresh_logs.py` で log.txt と log.md を再生成する。
 
+## [2026-06-02 01:00] update | Wichtige Verfeinerung in [[Nachvollziehbarkeit]] — Nachvollziehbarkeit ≠ 納得
+
+
+Aus den Parent-Wiki-Forschungsnotizen (`nattoku-research-notes`) wurde ein wichtiger Unterschied klargestellt, der in der ersten Version dieser Seite zu wenig herausgearbeitet war:
+
+- **Nachvollziehbarkeit** fokussiert die **Objektseite** (Erklärung/Entscheidung/Verhalten kann retraced werden), enthält **nicht** notwendig Zustimmung
+- **納得 (nattoku)** fokussiert die **Subjektseite** (das verstehende Selbst), enthält retrace **+** innere Akzeptanz
+
+Beispiel: "Sein Verhalten war nicht in Ordnung, aber nachvollziehbar" — kein Einverständnis, aber Weg retrace-bar. Im Japanischen wäre das "理解はできるが、納得はできない" — zwei separate Wörter im Deutschen (nachvollziehen + einverstanden sein), ein einziges Wort im Japanischen (納得).
+
+Frühere Behauptung "nächster struktureller Verwandter" wird zu "**strukturelles partial overlap**" präzisiert: nachvollziehbar deckt nur den retrace-Aspekt ab, der acceptance-Aspekt wird im Deutschen durch überzeugend / einleuchtend / einverstanden sein verteilt.
+
 ## [2026-05-29 11:30] ingest | Konzept "Nachvollziehbarkeit" als DE-Äquivalent zu JA 納得
+
 
 
 Parent-Wiki empirische Untersuchung ([[plurality-llm-wiki/wiki/analyses/nattoku-translation-vs-native]]) als DE-Konzeptseite eingebracht:
@@ -16,6 +29,7 @@ Parent-Wiki empirische Untersuchung ([[plurality-llm-wiki/wiki/analyses/nattoku-
 Neue Konzeptseite: [[Nachvollziehbarkeit]]. Verweist auf [[Pluralität-Buch]] und parent Analyse.
 
 ## [2026-05-28 18:00] initial-ingest | Deutsche Ausgabe des Pluralität-Buchs — erste Aufnahme
+
 
 
 

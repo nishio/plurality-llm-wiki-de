@@ -3,5 +3,6 @@
 # Format: <YYYY-MM-DD HH:MM>\t<type>\t<title>
 # Regenerate: python3 scripts/refresh_logs.py
 
+2026-06-02 01:00	update	Wichtige Verfeinerung in [[Nachvollziehbarkeit]] — Nachvollziehbarkeit ≠ 納得
 2026-05-29 11:30	ingest	Konzept "Nachvollziehbarkeit" als DE-Äquivalent zu JA 納得
 2026-05-28 18:00	initial-ingest	Deutsche Ausgabe des Pluralität-Buchs — erste Aufnahme

@@ -65,3 +65,63 @@ Diese Hypothese ist noch nicht empirisch geprüft, aber motiviert die Aufnahme n
 - Wie häufig kommt "nachvollziehbar" in nativen deutschen Digital-Demokratie-Texten tatsächlich vor? (Habermas-Sekundärliteratur / Decidim DE / Bundestag — siehe [[wishlist]])
 - Ist "Nachvollziehbarkeit" oder "Verständigung" der bessere DE-Äquivalent zu 納得? Verständigung betont eher den **kommunikativen Prozess**, Nachvollziehbarkeit betont eher die **Eigenschaft des Inhalts**
 - Inwieweit hat Habermas' Werk explizit den Begriff "Nachvollziehbarkeit" als terminus technicus etabliert, oder ist er nur sprachgebräuchlich?
+
+## Updates
+
+### 2026-06-02: Wichtige Verfeinerung — Nachvollziehbarkeit ≠ 納得 (Fokus-Unterschied)
+
+Empirische Recherche ([nattoku-research-notes](https://github.com/nishio/plurality-llm-wiki/blob/main/wiki/sources/nattoku-research-notes.md)) zeigt einen entscheidenden Unterschied, den die vorige Version dieser Seite nicht klar herausgearbeitet hat:
+
+| Konzept | Fokus | Inhalt |
+|---|---|---|
+| **nachvollziehbar** | **Objektseite** (Erklärung / Entscheidung / Verhalten) | Der Weg lässt sich (mental) zurückverfolgen / retrace |
+| **納得 (nattoku)** | **Subjektseite** (das verstehende Selbst) | Der Weg ist zurückverfolgbar **+** wird im Inneren akzeptiert |
+
+**Kritisches Beispiel** aus der Recherche:
+
+> **Sein Verhalten war nicht in Ordnung, aber nachvollziehbar.**
+> 彼の行動はよくなかったが、そうした事情はわかる。
+> His behavior was not okay, but I can understand why he acted that way.
+
+Hier zeigt sich: "nachvollziehbar" enthält **nicht** notwendig Zustimmung oder innere Akzeptanz. Es heißt nur, dass der Weg zur Handlung **mental rekonstruierbar** ist.
+
+Das japanische 「納得」 hingegen umfasst beides:
+> 理解はできるが、納得はできない。
+> Ich kann es nachvollziehen, aber ich bin nicht einverstanden.
+
+Auf Deutsch braucht es **zwei separate Wörter** (nachvollziehen + einverstanden sein), wo Japanisch ein einziges Wort die Synthese leistet ("納得"), das beide Schritte umfasst.
+
+### 2026-06-02: Strukturelle Korrektur der vorigen Coverage-Behauptung
+
+Die vorige Version dieser Seite behauptete, "Nachvollziehbarkeit" sei der **nächste strukturelle Verwandte** von 納得. Diese Behauptung ist nur teilweise richtig und sollte präzisiert werden:
+
+- **Nachvollziehbarkeit** deckt nur den **retrace-Aspekt** von 納得 ab
+- Der **acceptance-Aspekt** wird im Deutschen durch andere Wörter ausgedrückt:
+  - **überzeugend** (überzeugend / convincing — Erklärung überzeugt)
+  - **einleuchtend** (offensichtlich logisch / clearly reasonable)
+  - **überzeugt sein** (überzeugt sein = naher an "納得している")
+  - **akzeptieren** (akzeptieren — den Zustand annehmen)
+  - **einverstanden sein** (zustimmen / explicit agreement)
+
+Das japanische 納得 ist also nicht "eins zu eins" durch ein deutsches Wort abdeckbar. Stattdessen verteilt sich die innere Struktur von 納得 (retrace + acceptance) **auf mehrere deutsche Wörter**. Ähnlich wie das Englische ("convinced" + "acceptable" + "make sense") und das Chinesische ("有道理" + "想通了" + "接受" + "认可").
+
+Der Unterschied zwischen DE und EN/ZH: Im DE sind die einzelnen Teile durch deutlich abgrenzbare Begriffe (Nachvollziehbarkeit / Überzeugung / Akzeptanz) repräsentiert, während EN/ZH stärker kontextabhängig paraphrasieren.
+
+### 2026-06-02: Vier-Sprachen-Topographie (revidiert)
+
+| Sprache | 納得-Coverage | Mechanismus |
+|---|---|---|
+| EN | Echtes void | Kontextabhängige Paraphrasen: be convinced / accept / make sense / buy-in |
+| ZH | Echtes void | Kontextabhängige Paraphrasen: 觉得有道理 / 想通了 / 接受 / 认可 / 信服 / 服气 |
+| DE | **Strukturelles partial overlap** | retrace = nachvollziehbar / acceptance = überzeugend, einleuchtend, einverstanden — getrennte Wörter |
+| JA | Einheitliches Konzept | 納得 = retrace + acceptance als integriertes Ganzes |
+
+### 2026-06-02: Etymologisches Update — die "settled inside"-Struktur von 納得
+
+Aus der englischen Recherche ([nattoku-en-explanation](https://github.com/nishio/plurality-llm-wiki/blob/main/raw/nattoku-en-explanation.md), nicht öffentlich): die etymologische Struktur unterstreicht den Akzeptanz-Aspekt:
+
+- **納** = take in / accept
+- **得** = grasp / obtain / realize
+- altes "のうとく" (buddhistisches Wort, erstmals 1184 belegt): "外にあるものを受け入れて自己のものにする" — etwas Äußeres aufnehmen und es zu eigenem machen
+
+Diese "Take-into-the-Self"-Struktur kennt das Deutsche **nicht in einem einzelnen Begriff**. Das ist ein interessanter Hinweis darauf, **warum** das Japanische diesen Einheits-Begriff hat: Es geht auf ein buddhistisches Konzept der Inkorporation zurück, das im Westen entweder fehlt oder auf christlich-katholische / pietistische Akzeptanz-Konzepte verteilt ist (die wiederum stark religiös konnotiert sind).
